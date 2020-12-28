@@ -1,14 +1,27 @@
 ### Hi there 👋
 
-**jjorgemoura/jjorgemoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working as an iOS Software Engineer.
 
-Here are some ideas to get you started:
+#### 🔭 Open-source Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    This is my personal GitHub repo. Here you can find apps and libraries I've developed in my spare time. The main goal is to try new technologies, practices and tools and learn with those experiences.
+
+#### 🌱 Learning
+
+    I'm always trying to learn more about Swift and iOS 🍎
+
+#### 👯 Collaboration
+
+    Happy to collaborate on exciting OSS projects. My main focus is Swift (language and related projects) and Functional Programming.
+
+#### 📫 Contact
+
+- [Twitter](https://twitter.com/jjorgemoura)
+
+#### ⚡ Fun fact
+
+    Not properly a fun fact but I've started running more seriously in 2019 (when I did my first 10Km race) 🏃‍♂️. In 2020 I booked my first Ultra Trail 50Km (unfortunatelly postponed to 2021) ⛰.
+    
+    In 2021 I'm expecting to run, at least, three Ultra Trail runs, ranging between 50 and 100Km.
+
+    Check me out on [Strava](https://www.strava.com/athletes/42079579)
