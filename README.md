@@ -20,6 +20,6 @@ Happy to collaborate on exciting OSS projects. My main focus is Swift (language 
 
 #### ⚡ Fun fact
 
-Not properly a fun fact but I've started running more seriously in 2019 (when I did my first 10Km race) 🏃‍♂️. In 2020 I booked my first Ultra Trail 50Km (unfortunatelly postponed to 2021). More to come in 2021 ⛰
+Not properly a fun fact but I've started running more seriously in 2019, when I did my first 10Km race 🏃‍♂️. After a few road races, I have started exploring other distances and surfaces. In 2021 I completed my first Ultra Trail 50Km, and atempted to finished my first 100Km. Looking forward to even longer distances in 2022 ⛰
 
 Check me out on [Strava](https://www.strava.com/athletes/42079579)
